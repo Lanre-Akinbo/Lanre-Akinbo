@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm Lanre Akinbo, a Mechanical Engineer with a deep passion for data science, machine learning, and all things tech. I'm thrilled by the power of data to drive innovation and make informed decisions. 
+I'm Lanre Akinbo, a Mechanical Engineer with a deep passion for data science, machine learning and all things tech. I'm thrilled by the power of data to drive innovation and make informed decisions. 
 
 🚀 Here's What I'm About:
 
