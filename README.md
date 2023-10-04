@@ -14,7 +14,7 @@ I'm Lanre Akinbo, a Mechanical Engineer with a deep passion for data science, ma
 
 💬 Let's Connect:
 
-I'm always up for a good tech chat! Feel free to reach out or connect with me:
+I'm always up for a good chat! Feel free to reach out or connect with me:
 
 - 📧 Email: [olanreakinbo@gmail.com](mailto:olanreakinbo@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/lanre-akinbo](https://www.linkedin.com/in/lanre-akinbo/)
