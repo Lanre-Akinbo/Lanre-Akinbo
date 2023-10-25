@@ -4,7 +4,7 @@ I'm Lanre Akinbo, a Mechanical Engineer with a passion for data science, machine
 
 🚀 Here's What I'm About:
 
-- **Data Enthusiast:** I'm constantly exploring the dynamic world of data, seeking hidden insights and turning them into actionable knowledge.
+- **Data Enthusiast:** I'm constantly exploring the dynamic world of data, seeking insights and turning them into actionable knowledge.
 
 - **Machine Learning Enthusiast:** I love diving into algorithms and predictive models, using them to solve real-world challenges.
 
