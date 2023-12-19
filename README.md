@@ -19,4 +19,4 @@ I'm always up for a good chat! Feel free to reach out or connect with me:
 
 🌐 Explore:
 
-Take a look around my repositories to see what I've been up to. Whether you're interested in data, coding or just want to chat, I'm here for it. Thanks for stopping by!
+Take a look around my repositories to see what I've been up to. Thanks for stopping by!
